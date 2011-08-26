@@ -115,6 +115,7 @@ autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 autocmd FileType c set omnifunc=ccomplete#Complete
 autocmd FileType ruby set omnifunc=rubycomplete#Complete
 
+
 "------------------------------------
 "" VTreeExplorer
 "------------------------------------
